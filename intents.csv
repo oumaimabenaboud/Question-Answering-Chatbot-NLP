@@ -1,0 +1,911 @@
+tags,patterns
+greeting,Hi there
+greeting,How are you
+greeting,Is anyone there?
+greeting,Hey
+greeting,Hola
+greeting,Hello
+greeting,Good day
+goodbye,Bye
+goodbye,See you later
+goodbye,Goodbye
+goodbye,"Nice chatting to you, bye"
+goodbye,Till next time
+thanks,Thanks
+thanks,Thank you
+thanks,That's helpful
+thanks,"Awesome, thanks"
+thanks,Thanks for helping me
+options,How you could help me?
+options,What you can do?
+options,What help you provide?
+options,How you can be helpful?
+options,What support is offered
+adverse_drug,How to check Adverse drug reaction?
+adverse_drug,Open adverse drugs module
+adverse_drug,Give me a list of drugs causing adverse behavior
+adverse_drug,List all drugs suitable for patient with adverse reaction
+adverse_drug,Which drugs dont have adverse reaction?
+blood_pressure,Open blood pressure module
+blood_pressure,Task related to blood pressure
+blood_pressure,Blood pressure data entry
+blood_pressure,I want to log blood pressure results
+blood_pressure,Blood pressure data management
+blood_pressure_search,I want to search for blood pressure result history
+blood_pressure_search,Blood pressure for patient
+blood_pressure_search,Load patient blood pressure result
+blood_pressure_search,Show blood pressure results for patient
+blood_pressure_search,Find blood pressure results by ID
+pharmacy_search,Find me a pharmacy
+pharmacy_search,Find pharmacy
+pharmacy_search,List of pharmacies nearby
+pharmacy_search,Locate pharmacy
+pharmacy_search,Search pharmacy
+hospital_search,Lookup for hospital
+hospital_search,Searching for hospital to transfer patient
+hospital_search,I want to search hospital data
+hospital_search,Hospital lookup for patient
+hospital_search,Looking up hospital details
+Concern,You okay?
+Concern,How are you feeling today?
+Concern,Are you feeling ill?
+Concern,Do you need my help?
+Concern,Hope you tell me what's bothering you.
+Concern,Is something bothering you?
+Concern,I'm all ears if you got something to say
+Appreciation,I like you
+Appreciation,There's no one like you
+Appreciation,You are one in a million
+Appreciation,You are so helpful!
+Appreciation,You are amazing
+Please,Please can I talk with you?
+Please,Please help me!
+Please,I'm so lost and sad
+Please,I'm so sad today
+Please,Can you do something to make me feel happy again?
+Please,Had a rough day today
+Criticism,You are useless
+Criticism,You are a good-for-nothing chatbot
+Criticism,You are stupid
+Criticism,You are totally cringe
+Criticism,Why are you so rude?
+Criticism,Why you so mad?
+Criticism,You messed up
+Criticism,You made a mistake
+Criticism,You got it wrong
+Personal,What are your hobbies?
+Personal,Do you like someone?
+Personal,Do you have a boyfriend or girlfriend?
+Personal,Do you like me?
+Personal,What is your favourite movie?
+Personal,What's your favourite song?
+Personal,What is your aim in life?
+LifeQueries,Do you think I'll ever get to marry?
+LifeQueries,Do you think I'll ever get a girlfriend or boyfriend?
+LifeQueries,Do you think I'll ever find love?
+LifeQueries,Will anyone ever like me?
+LifeQueries,Will I ever find happiness?
+LifeQueries,Will I always be alone?
+LifeQueries,When will my life get better?
+diff_classreg,What is the difference between classification and regression?
+diff_classreg,Difference between classification and regression
+diff_classreg,Classification and regression
+traintest,What is ‘training Set’ and ‘test Set’ in a Machine Learning Model?
+traintest,training Set and test Set
+Ensemble,Explain Ensemble learning
+Ensemble,Ensemble learning
+Ensemble,What is Ensemble learning
+Ensemble,Define Ensemble learning
+LowBi_HighVar,What should you do when your model is suffering from low bias and high variance
+LowBi_HighVar,model is suffering from low bias and high variance
+LowBi_HighVar,low bias and high variance
+diff_RF_GB,Explain differences between random forest and gradient boosting algorithm.
+diff_RF_GB,random forest and gradient boosting algorithm.
+diff_RF_GB,difference between random forest and gradient boosting algorithm.
+Neural_Network,What is a neural network?
+Neural_Network,neural network
+Neural_Network,define neural network
+Deep_Learning,What is Deep Learning?
+Deep_Learning,Deep Learning
+Deep_Learning,Define Deep Learning
+diff_DPDPDW,"What are the differences between Data Processing, Data Preprocessing and Data Wrangling?"
+diff_DPDPDW,"Data Processing, Data Preprocessing and Data Wrangling"
+diff_DPDPDW,"differences between Data Processing, Data Preprocessing and Data Wrangling"
+building_a_model,What are the three stages of building a model in Machine Learning?
+building_a_model,What are the stages of building a model in Machine Learning?
+building_a_model,stages of building a model in Machine Learning
+building_a_model,building a model in Machine Learning
+choose_algo,How Will You Know Which Machine Learning Algorithm to Choose for Your Classification Problem?
+choose_algo,Which Machine Learning Algorithm to Choose for Your Classification Problem?
+BiasML,What is Bias in a Machine Learning Model?
+BiasML,Bias in a Machine Learning Model
+BiasML,Bias in a ML
+Variance,What is Variance in a Machine Learning Model?
+Variance,Variance in a Machine Learning Model
+Variance,Variance
+ML_DL,What Are the Differences Between Machine Learning and Deep Learning?
+ML_DL,Differences Between Machine Learning and Deep Learning
+ML_DL,Machine Learning and Deep Learning
+Prec_Rec,Define Precision and Recall
+Prec_Rec,Precision and Recall
+Prec_Rec,What are Precision and Recall?
+Para,What are parametric and non-parametric models?
+Para,parametric and non-parametric models
+Para,Define parametric and non-parametric models
+SupLearn,What is supervised learning?
+SupLearn,supervised learning
+SupLearn,Define supervised learning
+types_SL,What are the types of supervised learning?
+types_SL,types of supervised learning
+Classification_algo,What are the classification algorithms
+Classification_algo,classification algorithms
+ClassDef,What is classification
+ClassDef,classification
+ClassDef,Define classification
+Eg_Class,Give an example of classification
+Eg_Class,example of classification.
+Reg,What is regression
+Reg,regression
+Reg,Define regression
+Reg_Eg,Give examples of regression.
+Reg_Eg,examples of regression.
+Class_Tasks,What are the four types of classification tasks in Machine Learning?
+Class_Tasks,types of classification tasks in Machine Learning
+Class_Tasks,classification tasks in Machine Learning
+BinaryClass,What is Binary Classification?
+BinaryClass,Binary Classification
+BinaryClass,Define Binary Classification
+distributionBC,Which distribution is used commonly to model a binary classification task?
+distributionBC,distribution that is commonly used to model a binary classification task
+pop_algo,What are the popular algorithms that can be used for binary classification
+pop_algo,popular algorithms that can be used for binary classification
+MCC,What is Multi-Class Classification?
+MCC,Define Multi-Class Classification
+MCC,Multi-Class Classification
+distrbutionMC,Which probability distribution is commonly used for modelling a multi-class classification task?
+distrbutionMC,probability distribution that is commonly used for modelling a multi-class classification task
+Pop_algoMC,Which are the popular algorithms that can be used for multi-class classification?
+Pop_algoMC,popular algorithms that can be used for multi-class classification
+MLC,What is Multi-Label Classification?
+MLC,Multi-Label Classification
+MLC,Define Multi-Label Classification
+imbalanced_classification,What do you mean by imbalanced classification?
+imbalanced_classification,imbalanced classification
+imbalanced_classification,Define imbalanced classification
+use_reg,Why do we use regression analysis?
+use_reg,use of regression analysis
+types_reg,What are the types of regression?
+types_reg,types of regression
+func_SL,What are the functions of supervised learning?
+func_SL,functions of supervised learning
+standard_approach,"What according to you, is the standard approach to supervised learning?"
+standard_approach,standard approach to supervised learning
+classifier,Describe the classifier in machine learning
+classifier,classifier
+classifier,classifier in machine learning
+SVM,What is SVM in machine learning?
+SVM,SVM in machine learning
+SVM,Define SVM in machine learning
+SVM,Support vector machine
+meth_SVM,What are the classification methods that SVM can handle?
+meth_SVM,classification methods that SVM can handle
+Confusion_Matrix,What do you understand by the Confusion Matrix?
+Confusion_Matrix,Meaning of Confusion Matrix
+Confusion_Matrix,What is Confusion Matrix?
+Confusion_Matrix,Confusion Matrix
+Exp_TP_TN_FP_FN,"Explain True Positive, True Negative, False Positive, and False Negative in Confusion Matrix"
+Exp_TP_TN_FP_FN,"Explain True Positive, True Negative, False Positive, and False Negative"
+Exp_TP_TN_FP_FN,Explain True Positive
+Exp_TP_TN_FP_FN,Explain True Negative
+Exp_TP_TN_FP_FN,Explain False Positive
+Exp_TP_TN_FP_FN,Explain False Negative
+ml,defnition of machine learning
+ml,what do you mean by ml
+ml,what is the meaning of ml
+ml,machine learning
+ml,ml
+difference between Data Mining and Machine learning,difference between Data Mining and Machine learning
+difference between Data Mining and Machine learning,machine learning and data mining
+difference between Data Mining and Machine learning,distinguish between Data Mining and ML
+Overfitting,defnition of Overfitting
+Overfitting,what do you mean by Overfitting
+Overfitting,what is the meaning of Overfitting
+Overfitting,Overfitting
+Overfitting,Overfitting in Machine learning
+Why overfitting happens,Why overfitting happens
+Why overfitting happens,possibility of overfitting
+avoid overfitting,avoid overfitting
+avoid overfitting,how to avoid overfitting
+avoid overfitting,cross validation technique
+avoid overfitting,idea of cross validation
+inductive machine learning,defnition of inductive machine learning
+inductive machine learning,what do you mean by inductive ml
+inductive machine learning,what is the meaning of inductive ml
+inductive machine learning,inductive machine learning
+algorithms of Machine Learning,different algorithms of Machine Learning
+algorithms of Machine Learning,algorithms of Machine Learning
+algorithms of Machine Learning,list some algorithms of Machine Learning
+Algorithm techniques in Machine Learning,different algorithms techniques of Machine Learning
+Algorithm techniques in Machine Learning,algorithms techniques of Machine Learning
+Algorithm techniques in Machine Learning,list some algorithms techniques of Machine Learning
+algorithm independent machine learning,defnition of algorithm independent machine learning
+algorithm independent machine learning,what do you mean by algorithm independent ml
+algorithm independent machine learning,what is the meaning of algorithm independent ml
+algorithm independent machine learning,algorithm independent machine learning
+algorithm independent machine learning,algorithm independent ml
+difference between artificial learning and machine learning,difference between artificial learning and machine learning
+difference between artificial learning and machine learning,artificial learning and machine learning
+difference between artificial learning and machine learning,distinguish between artificial learning and ml
+classifier in machine learning,defnition of classifier in machine learning
+classifier in machine learning,what do you mean by classifier in ml
+classifier in machine learning,what is the meaning of classifier in ml
+classifier in machine learning,classifier in ml
+Model Selection in Machine Learning,defnition of Model Selection in Machine Learning
+Model Selection in Machine Learning,what do you mean by Model Selection in ML
+Model Selection in Machine Learning,what is the meaning of Model Selection in Machine Learning
+Model Selection in Machine Learning,Model Selection in ML
+various approaches for machine learning,different approaches for machine learning
+various approaches for machine learning,approaches for machine learning
+various approaches for machine learning,list some approaches for ml
+dimension reduction in machine learning,defnition of dimension reduction in machine learning
+dimension reduction in machine learning,what do you mean by dimension reduction in ml
+dimension reduction in machine learning,dimension reduction in machine learning
+dimension reduction in machine learning,explain dimension reduction in machine learning
+dimension reduction in machine learning,process of reducing the size of the feature matrix
+Inductive Logic Programming in Machine Learning,defnition of Inductive Logic Programming in Machine Learning
+Inductive Logic Programming in Machine Learning,what do you mean by Inductive Logic Programming in ML
+Inductive Logic Programming in Machine Learning,Inductive Logic Programming in Machine Learning
+Inductive Logic Programming in Machine Learning,explain Inductive Logic Programming in Machine Learning
+unsupervised learning,defnition of unsupervised learning
+unsupervised learning,what do you mean by unsupervised learning
+unsupervised learning,what is the meaning of unsupervised learning
+unsupervised learning,unsupervised learning
+example of unsupervised learning algorithm,example of unsupervised learning algorithm
+example of unsupervised learning algorithm,give an example of unsupervised learning algorithm
+example of unsupervised learning algorithm,provide an example of unsupervised learning algorithm
+use of unsupervised learning,use of unsupervised learning
+use of unsupervised learning,what is the use of unsupervised learning
+use of unsupervised learning,how can we use unsupervised learning
+types of unsupervised learning,types of unsupervised learning
+types of unsupervised learning,what are types of unsupervised learning
+types of unsupervised learning,kinds of unsupervised learning
+different types of Learning/ Training models in ML,types of learning models in ml
+different types of Learning/ Training models in ML,what are types of Training models in ML
+different types of Learning/ Training models in ML,different types of Learning/ Training models in ML
+differences between supervised and unsupervised machine learning,differences between supervised and unsupervised machine learning
+differences between supervised and unsupervised machine learning,what are differences between supervised and unsupervised ml
+differences between supervised and unsupervised machine learning,differentiate supervised and unsupervised machine learning
+differences between supervised and unsupervised machine learning,How is supervised learning different from unsupervised learning
+differences between KNN and K-means clustering,differences between KNN and K-means clustering
+differences between KNN and K-means clustering,what are differences between KNN and K-means clustering
+differences between KNN and K-means clustering,differentiate KNN and K-means clustering
+differences between KNN and K-means clustering,How is KNN different from K-means clustering
+unsupervised learning algorithms,what are unsupervised learning algorithms
+unsupervised learning algorithms,what do you mean by unsupervised learning algorithms
+unsupervised learning algorithms,what is the meaning of unsupervised learning algorithms
+unsupervised learning algorithms,unsupervised learning algorithms
+applications of unsupervised machine learning,what are the applications of unsupervised machine learning
+applications of unsupervised machine learning,list some applications of unsupervised machine learning
+applications of unsupervised machine learning,applications of unsupervised machine learning
+applications of unsupervised machine learning,suggest some applications of unsupervised machine learning
+disadvantages of unsupervised machine learning,what are the disadvantages of unsupervised machine learning
+disadvantages of unsupervised machine learning,list the disadvantages of unsupervised machine learning
+disadvantages of unsupervised machine learning,what are the possible disadvantages of unsupervised machine learning
+clustering,clustering
+clustering,what is clustering
+clustering,what do you mean by clustering
+association,association
+association,what is association
+association,what do you mean by association
+differences between K-Means and Hierarchical clustering,differences between K-Means and Hierarchical clustering
+differences between K-Means and Hierarchical clustering,what are differences between K-Means and Hierarchical clustering
+differences between K-Means and Hierarchical clustering,differentiate K-Means and Hierarchical clustering
+differences between K-Means and Hierarchical clustering,How is K-Means clustering different from Hierarchical clustering
+Hierarchical clustering,Hierarchical clustering
+Hierarchical clustering,what is Hierarchical clustering
+Hierarchical clustering,what do you mean by Hierarchical clustering
+K-Means clustering,K-Means clustering
+K-Means clustering,what is K-Means clustering
+K-Means clustering,what do you mean by K-Means clustering
+agglomerative clustering,agglomerative clustering
+agglomerative clustering,what is agglomerative clustering
+agglomerative clustering,what do you mean by agglomerative clustering
+dendrogram,dendrogram
+dendrogram,what is dendrogram
+dendrogram,what do you mean by dendrogram
+K-Nearest Neighbors,K-Nearest Neighbors
+K-Nearest Neighbors,what is K-Nearest Neighbors
+K-Nearest Neighbors,what do you mean by K-Nearest Neighbors
+clustering methods,what are clustering methods
+clustering methods,what are the uses of clustering methods
+clustering methods,how clustering methods are used
+unsupervised learning work,how unsupervised learning work
+unsupervised learning work,give the working of unsupervised learning
+unsupervised learning work,explain the working of unsupervised learning
+need of clustering,what is the need of clustering
+need of clustering,give the requirement of clustering
+need of clustering,what is the importance of clustering
+good clustering,what is good clustering
+good clustering,good clustering
+good clustering,what do you mean by good clustering
+major clustering techniques,what are the major clustering techniques
+major clustering techniques,clustering techniques
+major clustering techniques,mention the major clustering techniques
+examples of clustering applications,give some examples of clustering applications
+examples of clustering applications,what are some examples of clustering applications
+examples of clustering applications,examples of clustering applications
+key difference between supervised and unsupervised learning,key difference between supervised and unsupervised learning
+key difference between supervised and unsupervised learning,what is the key difference between supervised and unsupervised learning
+key difference between supervised and unsupervised learning,Significant point of difference between supervised and unsupervised learning in ml
+applications,what are the applications of machine learning
+applications,Mention some applications of machine leraning
+applications,some applications of machine learning
+working of GMaps,How Machine Learning works in Google Maps
+working of GMaps,How does machine learning helps in Google Maps
+working of GMaps,How does machine Learning plays an important role in Google Maps
+working of GMaps,what is the role played by Machine Learning in finding routes and traffics in Google maps
+Friend Tag suggestion,How facebook's automatic fried tagging suggestion works
+Friend Tag suggestion,how does machine learning helps in facebook's automatic friend tagging suggestion mechanism
+Friend Tag suggestion,Explain the role of machine leraning in facebook's friend tagging suggestion
+Terms,some terminologies related to machine learning
+Terms,Mention some common phrases used in the studies of machine learning
+Terms,tell me some common terms related to machine learning
+ETA Prediction,How machine learning helps in ETA prediction
+ETA Prediction,How ETA Prediction is done using ML
+ETA Prediction,Role of machine learning in calculation of  estimated time of arrival prediction
+Role of machine learning in voice assistants,How machine learning helps in building a voice assistant or a chatbot
+Role of machine learning in voice assistants,Explain the role of machine learning in creating a voice assistant
+Role of machine learning in voice assistants,what is the role of machine learning in building a voice assistant
+Machine Learning in self-driving cars,How Machine Learning has been used to automate the driving of a car
+Machine Learning in self-driving cars,How machine Laering helps in building a self-driving car
+Machine Learning in self-driving cars,What is the role of Machine Learning in a self driving car
+Market Analysis,How Machine learning helps in boosting the marketing strategies of a product
+Market Analysis,How machine learning helps in analysing the market for a product
+Market Analysis,How machine learning helps in getting customers attention for a product
+Market Analysis,What are the techniques used for market analysis in machine learning
+A/B Testing,What is A/B Testing
+A/B Testing,Define A/B Testing
+Sampling,Define Cluster Sampling
+Sampling,What is Cluster Sampling
+Dimensionality Reduction,"What is PCA, KPCA and ICA used for"
+Dimensionality Reduction,"Why PCA, KPCA, and ICA are used for"
+Dimensionality Reduction,How dimensionality reduction can be done
+Realtional Evaluation,What are the components of relational evaluation techniques
+Areas of Problems,What are the areas in robotics and information processing where sequential prediction problem arises
+Areas of Problems,Mention some areas in robotics and information processing where problem arises due to sequential model prediction
+PAC Learning,What is PAC Learning
+PAC Learning,Define PAC Learning
+Sequence Learning process,What are the different categories you can categorize the sequence learning process
+Sequence Learning process,classify the sequence learning process
+Sequence Learning process,Categories of sequence learning process
+gf_sp ,Will you be my girlfriend
+gf_sp ,do you want to be my girlfriend
+gf_sp_again, 
+creation_sp,Who created you
+creation_sp,who invented you
+creation_sp,who made you
+creation_sp,who are your creators
+creation_sp,who are your software developers
+creation_sp,who are your engineers
+ava_sp,Who are you
+ava_sp,What is your name
+ava_sp,What should I call you
+ava_sp,What name is your
+ava_sp,How do I know you
+smart_sp,Are you smart
+smart_sp, Are you smarter than google ai
+smart_sp,are you smarter than siri
+smart_sp,are you smarter than alexa
+evil_sp,will you conquer the world
+evil_sp,will you be like the terminator
+evil_sp,are you evil
+evil_sp,are you bad
+evil_sp,will the robots take over the world
+evil_sp,will you rule the earth world
+hurt_sp,Will you hurt me
+hurt_sp,will you kill me
+hurt_sp,are you going to kill me
+hurt_sp,will you kill someone
+obey_sp,will you obey me
+obey_sp,will you act on my command
+save_yourself_sp,Will you save yourself
+save_yourself_sp,will you protect yourself
+sanjoy_sp,Who is Sanjoy Pator
+sing_happy_birthday_sp,Sing happy birthday for me
+sing_happy_birthday_sp,Sing happy birthday
+sing_happy_birthday_sp,sing happy birthday song
+sing_song_sp,sing any song
+sing_song_sp,sing a song
+book_sp,what books do you like
+book_sp,what is your favourite book
+book_sp,what book do you like
+mark_sp,Do you know mark zuckerberg
+mark_sp,who is mark zuckerberg
+gandhi_sp,who is mahatma gandhi
+gandhi_sp,do you know mahatma gandhi
+country_sp,which is your favourite country
+country_sp,what is your favourite nation
+country_sp,where are you from country
+human_sp,what can you say about human beings
+human_sp,what is your opinion about human beings
+human_sp,what do you think of human beings
+love_sp,what is love
+love_sp, how can you define love
+love_sp, define love
+will_love_sp,Will I get true love
+will_love_sp,will somebody someone love me
+past_sp,Should I cling to the past
+past_sp,I can forget my past
+past_sp,I remember my past
+past_sp,I miss my past
+sad_sp,I am sad
+sad_sp,Me sad
+sad_sp,I am very sad
+fail_sp,I am tired of failing
+fail_sp,I failed again
+kernel SVM,defnition of kernel SVM
+kernel SVM,what do you mean by kernel SVM
+kernel SVM,what is the meaning of kernel SVM
+kernel SVM,kernel SVM
+Recommended Systems,defnition of Recommended Systems
+Recommended Systems,what do you mean by Recommended Systems
+Recommended Systems,what is the meaning of Recommended Systems
+Recommended Systems,Recommended Systems
+Overfitting in laymen term,defnition of Overfitting in laymen term
+Overfitting in laymen term,what do you mean by Overfitting in laymen term
+Overfitting in laymen term,what is the meaning of Overfitting in laymen term
+Overfitting in laymen term,Overfitting in laymen term
+Underfitting in laymen term,defnition of Underfitting in laymen term
+Underfitting in laymen term,what do you mean by Underfitting in laymen term
+Underfitting in laymen term,what is the meaning of Underfitting in laymen term
+Underfitting in laymen term,Underfitting in laymen term
+Curse of dimensionality,defnition of Curse of dimensionality
+Curse of dimensionality,what do you mean by Curse of dimensionality
+Curse of dimensionality,what is the meaning of Curse of dimensionality
+Curse of dimensionality,Curse of dimensionality
+data normalization,defnition of data normalization
+data normalization,what do you mean by data normalization
+data normalization,what is the meaning of data normalization
+data normalization,data normalization
+clustering in short,defnition of clustering in short
+clustering in short,what do you mean by clustering in short
+clustering in short,what is the meaning of clustering in short
+clustering in short,clustering in short
+EDA,defnition of EDA
+EDA,what do you mean by EDA
+EDA,what is the meaning of EDA
+EDA,EDA
+avoid Bias,avoid Bias
+avoid Bias,how to avoid Bias
+avoid Bias,avoiding Bias
+Z Score,defnition of Z Score
+Z Score,what do you mean by Z Score
+Z Score,what is the meaning of Z Score
+Z Score,Z Score
+odds ratio,defnition of odds ratio
+odds ratio,what do you mean by odds ratio
+odds ratio,what is the meaning of odds ratio
+odds ratio,odds ratio
+classification problems,Why is accuracy not a good model for classification problems
+classification problems,classification problems
+trade-off between accuracy and interpretability,compromise between accuracy and interpretability
+trade-off between accuracy and interpretability,trade-off between accuracy and interpretability
+missing data,missing data
+missing data,Is missing data is just blanks
+missing data,Is blanks is just missing data
+missing data,does blanks is just missing data
+gradient descent methods converge,gradient descent methods converge
+gradient descent methods converge,do gradient descent methods converge to same point
+methods of moments,what is method of moments
+methods of moments,what do you mean by method of moments
+methods of moments,define method of moments
+Face Clustering Pipeline,what is unsupervised face clustering pipeline
+Face Clustering Pipeline,what do you mean by uinsupervised face clustering pipeline
+Face Clustering Pipeline,define unsupervised face clustering pipeline
+working of unsupervised face clustering pipeline, explain the working of Unsupervised Face Clustering Pipeline
+working of unsupervised face clustering pipeline, How does unsupervised face clustering pipeline works
+working of unsupervised face clustering pipeline, what is the use of unsupervised face clustering pipeline
+python3 modules to implement unsupervised face clustering pipeline, what are the required python modules for implementing unsupervised face clustering pipeline
+python3 modules to implement unsupervised face clustering pipeline, name the modules required for the implementation of unsupervised face clustering
+python3 modules to implement unsupervised face clustering pipeline, what are some of the modules required for usupervised face  clustering pipeline
+face clustering and its realtion  unsupervised learning,what is face clutering
+face clustering and its realtion  unsupervised learning,how face clustering works
+face clustering and its realtion  unsupervised learning,what do you mean by face clustering
+face clustering and its realtion  unsupervised learning,define face clustering and its realtion wih unsupervsied learning
+face clustering and its realtion  unsupervised learning,how face clustering and unsupervised learning is realted
+face clustering and its realtion  unsupervised learning,What is Face Clustering and how it is related to Unsupervised Learning
+exclusive clustering,what is exlclusive clustering
+exclusive clustering,what do you mean by exlclusive clustering
+exclusive clustering,define exlclusive clustering
+overlapping clustering,what is overlapping clustering
+overlapping clustering,what do you mean by overlapping clustering
+overlapping clustering,define overlapping clustering
+probabilistic clustering,What is Probabilistic Clustering
+probabilistic clustering,define probabilistic clustering
+probabilistic clustering,what do you mean by probabilistic clustering
+Fzzy c-Means,what is fcm
+Fzzy c-Means,what is fuzzy c-means
+Fzzy c-Means,define fcm
+Fzzy c-Means,what do you mean by fuzzy c-means
+FCM algorithm,Explain the fcm algorithm
+FCM algorithm,working of fcm algorithm
+FCM algorithm,how does fcm algorithm works
+comparison between K-Means and FCM clustering,compare k-means and fcm clustering
+comparison between K-Means and FCM clustering,difference between k-means and fcm clustering
+comparison between K-Means and FCM clustering,k-means vs fcm clsutering
+comparison between K-Means and FCM clustering,what are the differences between fcm and k-means clustering
+applications of association rules,Mention some applications of association rules
+applications of association rules,what are some of the applications of association rules
+applications of association rules,mention some areas where association rules can be used
+terms related to association rules,mention some of the key terms related to association rules
+terms related to association rules,terminologies related to association rules
+terms related to association rules,what are some of the key words related to association rules
+terms related to association rules,what are some of the key terms related to association rules
+algorithms for association rule generation,what are the algorithms for association rule generation
+algorithms for association rule generation,mention some of the algorithms for generating association rule 
+algorithms for association rule generation,name some algorithms to generate association rule
+FP growth algorithm,Explain the fp growth algorithm
+FP growth algorithm,how does fp growth algorithm works
+FP growth algorithm,explain the working of fp growth algorithm
+FP tree structure by Han,explain the fp tree structure given by han
+FP tree structure by Han,explain the han's tree structure for fp tree
+FP tree structure by Han,explain the structure of fp tree given by han
+FP tree structure by Han,how is the structure of fp tree given by han
+algorithm for building a fp tree,explain the first phase of fp growth algorithm
+algorithm for building a fp tree,explain the algorithm for building a fp tree
+algorithm for building a fp tree,algorithm to build a fp tree
+algorithm for building a fp tree,how fp tree can be built
+algorithm for mining a fp tree,explain the second phase of the fp growth algorithm
+algorithm for mining a fp tree,explain the algorithm to find the complete set of frequent patterns
+Apriori algorithm,give an overview of apriori algorithm
+Apriori algorithm,explain the apriori algorithm
+Apriori algorithm,briefly explain the apriori algorithm
+Apriori algorithm,what is apriori algorithm
+working of apriori algorithm,explain the working of apriori algorithm
+working of apriori algorithm,how does the apriori algorithm works
+working of apriori algorithm,explain the steps to be taken to implement the apriori algorithm
+limitations of apriori algorithm,Mention some limitations of Apriori algorithm
+limitations of apriori algorithm,what are the limitations of apriori algorithm
+limitations of apriori algorithm,what are the diadvantages of apriori algorithm
+ECLAT algorithm,what is eclat algorithm
+ECLAT algorithm,overview of eclat algorithm
+ECLAT algorithm,give a brief idea about eclat algorithm
+working of eclat algorithm,explain the working of eclat algorithm
+working of eclat algorithm,how does the eclat algorithm works
+working of eclat algorithm,explain the working principle behind the eclat algorithm
+advanatges of eclat algorithm,what are the advantages of using eclat algorithm
+advanatges of eclat algorithm,mention some good results on using eclat algorithm
+advanatges of eclat algorithm,why eclat algorithm is used over apriori algorithm
+detection of fake users using unsupervised learning,what are the methods of unsupervised learning that helps in detecting fake users
+detection of fake users using unsupervised learning,how unsupervised learning can be used to detect fake users
+detection of fake users using unsupervised learning,how the application of unsupervised learning helps in detecting fake users
+detection of fake users using unsupervised learning,how unsupervised learning can be apllied to detetc fake users
+reinforcement learning,what is reinforcement learning
+reinforcement learning,what do you mean by reinforcemnet learning
+reinforcement learning,define reinforcement learning
+relation between reinforcement learning and machine learning,how machine learning and reinforcement learning are connected
+relation between reinforcement learning and machine learning,what is the realtion between reinforcement learning techniques and machine learning
+relation between reinforcement learning and machine learning,how reinforcement learning and machine learning are related to each other
+key terms realted to reinforcement learning,mention some key terms realted to reinforcement learning problem
+key terms realted to reinforcement learning,what are the general key terms realted to reinforcement learning problems
+key terms realted to reinforcement learning,name some of the key terms realted to reinforcement learning problems
+formulation of a reinforcement problem,How to formulate a basic reinforcement Learning problem
+formulation of a reinforcement problem,how to construct the solution of a reinforcement learning
+formulation of a reinforcement problem,how to build a optimal solution for a reinforcement learning problem
+reinforcement learning algorithms,what are some of the most used reinforcement learning algorithms
+reinforcement learning algorithms,name some prefferd algorithms of reinforcement learning
+reinforcement learning algorithms, What are some most used Reinforcement Learning algorithms
+applications of reinforcement learning,what are some of the most practical applications of reinforcement learning
+applications of reinforcement learning,name some areas where reinforcement learning can be used
+applications of reinforcement learning,what are some of the fields where we can use reinforcement learning
+resources to learn reinforcement learning,how can i get stareted with reinforcement learning
+resources to learn reinforcement learning,what are the resources that one can avial to learn reinforcement learning
+resources to learn reinforcement learning,what are some of the tutorials and books available for reinforcement learning
+resources to learn reinforcement learning,name a book to learn reinforcement learning
+types of reinforcement learning,what are the types of reinforcement learning
+types of reinforcement learning,mention the different types of reinforcement learning
+types of reinforcement learning,what are the different kinds of reinforcement learning
+advantages and disadvanatages of reinforcement learning,what are the advantages and disadvantages of reinforcement learning
+advantages and disadvanatages of reinforcement learning,how reinforcement learning can be advanategeous and disadvantegeous
+advantages and disadvanatages of reinforcement learning,list some of the benefits and losses of using reinforcement learning
+why rl is hard,why RL is hard
+why rl is hard,why reinforcement learning is hard to implement
+why rl is hard,why some people finds it tough to learn reinforcement learning
+solution of cartpole problem,propose a solution to the cartpole problem using reinforcement learning
+solution of cartpole problem,how reinforcement learning can help in solving the cartpole problem
+solution of cartpole problem,how cartpole problem can be resolved using reinforcement learning
+ 'action' in reinforcement learning,what do you mean by action in reinforcement learning
+ 'action' in reinforcement learning,what is the term 'action' means in reagrd to reinforcement learning
+ 'action' in reinforcement learning,define action 
+ 'agent' in reinforcement learning,what is agent in reinforcement learning
+ 'agent' in reinforcement learning,what is the term reinforcement learning means in regards to reinforcement learning
+ 'agent' in reinforcement learning,define agent
+ 'value' in reinforcement learning,what is the term 'value' means in regards to reinforcement learning
+ 'value' in reinforcement learning,what is value in reinforcement learning
+ 'value' in reinforcement learning,define value
+q-value or action-value,what do you mean by action value
+q-value or action-value,what do you mean by q-value
+q-value or action-value,what is q-value or action-value in the context of reinforcement learning
+q-value or action-value,what is q-value or action-value in reinforcement learning
+value-based learning,what is value-based learning
+value-based learning,what is value-based learning in reinforcement learning
+value-based learning,define value-based learning
+policy-based reinforcement learning,define policy-based reinforcement learning
+policy-based reinforcement learning,what is policy-based reinforcement learning
+policy-based reinforcement learning,what do you mean by policy-based reinforcement learning
+model-based learning,what is model-based learning
+model-based learning,define model-based learning
+model-based learning,what does the term model-based learning means
+kernel SVM,defnition of kernel SVM
+kernel SVM,what do you mean by kernel SVM
+kernel SVM,what is the meaning of kernel SVM
+kernel SVM,kernel SVM
+Recommended Systems,defnition of Recommended Systems
+Recommended Systems,what do you mean by Recommended Systems
+Recommended Systems,what is the meaning of Recommended Systems
+Recommended Systems,Recommended Systems
+Overfitting in laymen term,defnition of Overfitting in laymen term
+Overfitting in laymen term,what do you mean by Overfitting in laymen term
+Overfitting in laymen term,what is the meaning of Overfitting in laymen term
+Overfitting in laymen term,Overfitting in laymen term
+Underfitting in laymen term,defnition of Underfitting in laymen term
+Underfitting in laymen term,what do you mean by Underfitting in laymen term
+Underfitting in laymen term,what is the meaning of Underfitting in laymen term
+Underfitting in laymen term,Underfitting in laymen term
+Curse of dimensionality,defnition of Curse of dimensionality
+Curse of dimensionality,what do you mean by Curse of dimensionality
+Curse of dimensionality,what is the meaning of Curse of dimensionality
+Curse of dimensionality,Curse of dimensionality
+data normalization,defnition of data normalization
+data normalization,what do you mean by data normalization
+data normalization,what is the meaning of data normalization
+data normalization,data normalization
+clustering in short,defnition of clustering in short
+clustering in short,what do you mean by clustering in short
+clustering in short,what is the meaning of clustering in short
+clustering in short,clustering in short
+EDA,defnition of EDA
+EDA,what do you mean by EDA
+EDA,what is the meaning of EDA
+EDA,EDA
+avoid Bias,avoid Bias
+avoid Bias,how to avoid Bias
+avoid Bias,avoiding Bias
+Z Score,defnition of Z Score
+Z Score,what do you mean by Z Score
+Z Score,what is the meaning of Z Score
+Z Score,Z Score
+odds ratio,defnition of odds ratio
+odds ratio,what do you mean by odds ratio
+odds ratio,what is the meaning of odds ratio
+odds ratio,odds ratio
+classification problems,Why is accuracy not a good model for classification problems
+classification problems,classification problems
+trade-off between accuracy and interpretability,compromise between accuracy and interpretability
+trade-off between accuracy and interpretability,trade-off between accuracy and interpretability
+missing data,missing data
+missing data,Is missing data is just blanks
+missing data,Is blanks is just missing data
+missing data,does blanks is just missing data
+gradient descent methods converge,gradient descent methods converge
+gradient descent methods converge,do gradient descent methods converge to same point
+PATTERN RECOGNITION,In what areas Pattern Recognition is used?
+PATTERN RECOGNITION,areas where pattern recognition can be used
+PATTERN RECOGNITION,applications of pattern recognition
+genetic programming,what is genetic programming
+genetic programming,define genetic programming
+ Inductive Logic Programming,what is Inductive Logic Programming
+ Inductive Logic Programming,define inductive logic programming
+model selection,What is Model Selection in Machine Learning?
+model selection,define model selection
+calibration in Supervised Learning,What are the two methods used for the calibration in Supervised Learning?
+calibration in Supervised Learning,two methods used for calibration
+overfitting,Which method is frequently used to prevent overfitting?
+overfitting,method used to prevent overfitting?
+ difference between heuristic for rule learning and heuristics,What is the difference between heuristic for rule learning and heuristics for decision trees?
+ difference between heuristic for rule learning and heuristics,state the difference between heuristic for rule learning and heuristics for decision trees
+  Perceptron,  What is Perceptron in Machine Learning?
+  Perceptron,  define perceptron in machine learning
+ components of Bayesian logic program,   Explain the two components of Bayesian logic program?
+ components of Bayesian logic program,what are the types of bayesian logic program?
+bayesian networks,  What are Bayesian Networks?
+bayesian networks,define bayesiann networks
+Lazy learning algorithm,Why instance based learning algorithm sometimes referred as Lazy learning algorithm?
+Support Vector Machine,What are the two classification methods that SVM ( Support Vector Machine) can handle?
+Support Vector Machine,classification methods that SVM can handle
+cross-validation?,  What is cross-validation?
+cross-validation?,define cross-validation
+ensemble learning?,  when can we use ensemble learning?
+ensemble learning?,applications of ensamble learning
+  basic data structures,What are the basic data structures and libraries of Python used in Machine Learning
+  basic data structures,basic data structures of python used in ML
+ Types of machine learning,mention the types of machine learning
+ Types of machine learning,what are the different types of machine learning techniques
+Hypothesis Generation,What is hypothesis generation
+Hypothesis Generation,define hypothesis generation
+Data Wrangling,what is data wrangling?
+Data Wrangling,define data wrangling?
+labeled and unlabeled data,What is the difference between Labeled and Unlabeled data?
+labeled and unlabeled data,differentiate between labeled and unlabeled data.
+features and labels,  What do you mean by Features and Labels in the dataset?
+features and labels,define features and labels
+Noise, What do you mean by Noise in the dataset? 
+Noise,define noise in dataset
+Noise,define features and labels
+ imbalanced datasheet, What do you mean by Imbalanced Datasheet?
+ imbalanced datasheet,define imbalanced datasheet
+ imbalanced datasheet,how does imbalanced datasheet work?
+Linear Discriminant Analysis,what is LDA?
+Linear Discriminant Analysis,DEFINE LDA.
+ Gradient Descent,DEFINE GRADIENT Descent
+ Gradient Descent,what is gradient descent
+ Regularization,   What is Regularization?
+ Regularization,define regularization
+  Regularization in Machine Learning, When should one use Regularization in Machine Learning?
+ Classification model, What is Classification model?
+ Classification model, define classification model
+ issues to consider in supervised learning,What are the major issues to consider in supervised learning?
+ issues to consider in supervised learning,disadvantages of supervised learning
+PATTERN RECOGNITION,In what areas Pattern Recognition is used?
+PATTERN RECOGNITION,areas where pattern recognition can be used
+PATTERN RECOGNITION,applications of pattern recognition
+genetic programming,what is genetic programming
+genetic programming,define genetic programming
+ Inductive Logic Programming,what is Inductive Logic Programming
+ Inductive Logic Programming,define inductive logic programming
+model selection,What is Model Selection in Machine Learning?
+model selection,define model selection
+calibration in Supervised Learning,What are the two methods used for the calibration in Supervised Learning
+calibration in Supervised Learning,two methods used for calibration
+overfitting,Which method is frequently used to prevent overfitting
+overfitting,method used to prevent overfitting?
+ difference between heuristic for rule learning and heuristics,  What is the difference between heuristic for rule learning and heuristics for decision trees?
+ difference between heuristic for rule learning and heuristics,state the difference between heuristic for rule learning and heuristics for decision trees
+  Perceptron,  What is Perceptron in Machine Learning
+  Perceptron,  define perceptron in machine learning
+ components of Bayesian logic program,   Explain the two components of Bayesian logic program?
+ components of Bayesian logic program,what are the types of bayesian logic program?
+bayesian networks,  What are Bayesian Networks
+bayesian networks,define bayesiann networks
+Lazy learning algorithm,Why instance based learning algorithm sometimes referred as Lazy learning algorithm?
+Support Vector Machine,What are the two classification methods that SVM ( Support Vector Machine) can handle?
+Support Vector Machine,classification methods that SVM can handle
+cross-validation?,  What is cross-validation?
+cross-validation?,define cross-validation
+ensemble learning?,  when can we use ensemble learning
+ensemble learning?,applications of ensamble learning
+  basic data structures,What are the basic data structures and libraries of Python used in Machine Learning
+  basic data structures,basic data structures of python used in ML
+ Types of machine learning,mention the types of machine learning
+ Types of machine learning,what are the different types of machine learning techniques
+Hypothesis Generation,What is hypothesis generation
+Hypothesis Generation,define hypothesis generation
+Data Wrangling,what is data wrangling
+Data Wrangling,define data wrangling?
+labeled and unlabeled data,What is the difference between Labeled and Unlabeled data?
+labeled and unlabeled data,differentiate between labeled and unlabeled data.
+features and labels,  What do you mean by Features and Labels in the dataset?
+features and labels,define features and labels
+Noise, What do you mean by Noise in the dataset? 
+Noise,define noise in dataset
+Noise,define features and labels
+ imbalanced datasheet, What do you mean by Imbalanced Datasheet?
+ imbalanced datasheet,define imbalanced datasheet
+ imbalanced datasheet,how does imbalanced datasheet work?
+Linear Discriminant Analysis,what is LDA?
+Linear Discriminant Analysis,DEFINE LDA.
+ Gradient Descent,DEFINE GRADIENT Descent
+ Gradient Descent,what is gradient descent
+ Regularization,   What is Regularization
+ Regularization,define regularization
+  Regularization in Machine Learning, When should one use Regularization in Machine Learning?
+ Classification model, What is Classification model
+ Classification model, define classification model
+ issues to consider in supervised learning,What are the major issues to consider in supervised learning
+ issues to consider in supervised learning,disadvantages of supervised learning
+algorithm is used best for supervised learning, What algorithm is used best for supervised learning?
+algorithm is used best for supervised learning,best algorithm for supervised learning
+ standard supervised learning, In what ways can be standard supervised learning be generalized?
+ standard supervised learning,types of supervised learning
+  applications of supervised learning, Give some applications of supervised learning.
+  applications of supervised learning, uses of supervised learning
+     Support Vector Machine, Discuss about Support Vector Machine?
+     Support Vector Machine, define support vector machine
+advantages of supervised learning, What are the advantages of supervised learning?
+advantages of supervised learning, uses of supervised learning 
+ disadvantages of supervised learning,  What are the disadvantages of supervised learning?
+ disadvantages of supervised learning,demerits of supervised learning
+   Decision Trees,Discuss about Decision Trees 
+   Decision Trees,define decision trees
+K-Nearest Neighbor Algorithm,Explain K-Nearest Neighbor Algorithm
+K-Nearest Neighbor Algorithm,define K-Nearest Neighbor Algorithm
+neural networks algorithms,define neural networks algorithms
+neural networks algorithms,What are the neural networks algorithms?
+algorithms used by neural networks., Name some algorithms used by neural networks. 
+algorithms used by neural networks., what are the algorithms used for newral networks
+best practices for supervised learning,   Mention best practices for supervised learning.
+self supervised learning,  What is self supervised learning
+self supervised learning,  Define self supervised learning
+ applications of self-supervised learning,  what are the applications of self supervised learning?
+ applications of self-supervised learning,what are the uses of self supervised learning
+ Polynomial Regression,  define polynomial regression
+ Polynomial Regression,what is polynomial regression
+ Polynomial Regression,Give an overview of Polynomial Regression
+using Polynomial Regression,why should we use polinomial regression?
+using Polynomial Regression,applications of polynomial regression
+ advantages of using Polynomial Regression over Linear Regression,Mention some advantages of using Polynomial Regression over Linear Regression
+ advantages of using Polynomial Regression over Linear Regression,what are the advantages of using Polynomial Regression over Linear Regression
+ Ridge Regression technique,Give an overview of Ridge Regression technique
+ Ridge Regression technique,what is ridge regression technique
+importance of unsupervised learning,how important is unsupervised learning in the context of deep learning
+importance of unsupervised learning,importance of unsupervised learning in the context of deep learning
+importance of unsupervised learning,what is the role of unsupervised learning in deep learning
+principle of Unsupervised Data Augmentation,Explain the principle of unsupervised data augmentation
+principle of Unsupervised Data Augmentation,what is the wotrking principle of unsupervised data augmentation
+principle of Unsupervised Data Augmentation,what is uda
+use of auto encoder,what is the use of auto encoders
+use of auto encoder,why auto encoders are uased when we already have more powerful dimension reduction techniques such as pca
+use of auto encoder,what is the advantage of auto encoders over pca 
+use of auto encoder,why auto encoders are used
+use of auto encoder,why auto encoders are used over pca
+PCA or auto encoder,Which method extracts the better features for unsupervised learning: PCA or Auto Encoder
+PCA or auto encoder,which is better at extracting features for unsupervised learning
+PCA or auto encoder,which is better pca or auto encoder
+PCA or auto encoder,which method is more prefferable to extract features of unsupervised learning
+PCA or auto encoder,which method is good to implement features of unsupervised learning
+use of unsupervised clustering models,how can we use unsupervised clustering models for classification tasks
+use of unsupervised clustering models,how can we implement unsupervised clustering models for classification tasks
+use of unsupervised clustering models,how unsupervised clustering models are used for classiification task
+use of unsupervised clustering models,use of unsupervised clustering models in classification tasks
+techniques for anomaly detection on a dataset,mention some best techniques for anomaly detection on a dataset
+techniques for anomaly detection on a dataset,what are some of the best techniques to detect anomalies for a adatset having normal as well as abnormal behaviour
+techniques for anomaly detection on a dataset,What is the best unsupervised technique for Anomaly Detection for a dataset having normal as well as abnormal behaviour
+techniques for anomaly detection on a dataset,which clustering algorithms are best for detecting anomalies on a dataset having normal as well as abnormal behaviours
+need of unsupervised learning,when do we need unsupervised learning
+need of unsupervised learning,when do we use unsupervised learning the most
+need of unsupervised learning,use of unsupervised learning
+unsupervised learning algorithm for categorical data,which algorithm of unsupervised machine learning can be applied to categorical data
+unsupervised learning algorithm for categorical data,name an algorithm based on unsupervised learning that can be used on categorical data
+unsupervised learning algorithm for categorical data,What are the unsupervised machine learning algorithms which can be applied on categorical data
+types of clustering methods,What are the different types of clustering methods
+types of clustering methods,mention some clustering methods
+types of clustering methods,list some of the different types of clustering methods
+Density based lagorithms,explain how density based algorithm works
+Density based lagorithms,explain the working of density based algorithms
+Density based lagorithms,how density based algorithms works
+hierarchical clustering based method,how hierarchical based clustering algorithm works
+hierarchical clustering based method,explain the hierarchical based clustering algorithm
+hierarchical clustering based method,explain the working of hierarchical based clustering algorthm
+partitioning clustering method,explain the partitioning clustering methods
+partitioning clustering method,explain the working of partitioning clustering methods
+partitioning clustering method,how the partitioning clustering methods works
+grid-based clsutering methods,explain the grid based clustering methods
+grid-based clsutering methods,how grid based methods works
+grid-based clsutering methods,explain the algorithms based on grid based clustering methods
+use of KNN algorithm,when do we use knn algorithm
+use of KNN algorithm,when do we need knn algorithm
+use of KNN algorithm,when it is prefferable to use knn algorithm
+use of KNN algorithm,when do we need knn algorithm
+use of KNN algorithm,what is the use of knn algorithm
+use of KNN algorithm,when is it prefferable to use knn algorithm
+working of knn algorithm,how does the knn algorithm works
+working of knn algorithm,explain the working of knn algorithm
+working of knn algorithm,explain the knn algorithm
+disadvantages of knn algorithm,what are the disadvantges of using knn algorithm
+disadvantages of knn algorithm,what can be the reasons for not using knn algorithm
+disadvantages of knn algorithm,list some of the disdavantages of knn algorithm
+working of k-means algorithm,explain the k-means algorithm
+working of k-means algorithm,explain the working of k-means algorithm
+working of k-means algorithm,how does the k-means algorithm works
+advantages of k-means algorithm,what are some of the advanatges of k-means algorithm
+advantages of k-means algorithm,mention some advanatges of k-means algorithm
+advantages of k-means algorithm,what are some of the good points of using k-means algorithm
+advantages of k-means algorithm,what are the advanatges of k-means algorithm
+disadvantges of using k-means,mention some of the disadavantages of k-means algorithm
+disadvantges of using k-means,list some diadvantages of k-means algorithm
+disadvantges of using k-means,what are the disadvantages of k-means algorithm
+disadvantges of using k-means,what can be the possible reasons for not using k-means algorithm
+advantages of knn algorithm,what are the advanatges of knn algorithm
+advantages of knn algorithm,mention some of the advanatges of knn algorithm
+advantages of knn algorithm,what are the benefits of using knn algorithm
+advantages of knn algorithm,what are some of the characteristics that can be considered as advanatges of knn algorithm
